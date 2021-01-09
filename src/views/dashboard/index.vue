@@ -3,7 +3,7 @@
     <div class="dashboard-text">name: {{ name }}</div>
     <div>第一次修改</div>
     <div>第二次修改</div>
-    <div>hahahhaha</div>
+    <div>共同修改的位置</div>
     <div>嗯。。。。。</div>
   </div>
 </template>
