@@ -6,6 +6,7 @@
     <div>共同修改的位置</div>
     <div>嗯。。。。。</div>
     <div>版本不同步的情况</div>
+    <div>分支1的修改</div>
   </div>
 </template>
 
